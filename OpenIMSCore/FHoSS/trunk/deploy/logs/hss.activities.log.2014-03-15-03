@@ -1,0 +1,20 @@
+2014-03-15 03:59:01,673 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-03-15 03:59:03,053 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-03-15 03:59:04,429 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-03-15 03:59:05,434 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-03-15 03:59:11,107 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-03-15 03:59:11,151 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-03-15 03:59:11,155 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.open-ims.test
+2014-03-15 03:59:11,156 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: open-ims.test
+2014-03-15 03:59:11,156 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-03-15 03:59:11,156 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-03-15 03:59:11,157 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-03-15 03:59:11,157 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-03-15 03:59:11,172 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 03:59:22,669 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 03:59:23,339 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 03:59:23,539 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

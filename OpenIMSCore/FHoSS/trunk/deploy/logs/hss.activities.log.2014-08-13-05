@@ -1,0 +1,100 @@
+2014-08-13 05:07:43,360 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,409 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,415 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,423 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,431 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,435 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,443 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,451 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,459 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,471 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,479 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,491 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,507 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,512 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,517 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:43,531 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,514 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,519 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,523 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,527 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,532 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,538 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,542 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,546 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,550 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:07:53,554 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:16:55,790 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-13 05:16:55,808 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-13 05:16:55,814 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-13 05:16:55,815 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-13 05:16:56,086 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-13 05:16:56,101 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-13 05:16:56,120 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-13 05:16:56,123 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-13 05:17:39,035 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,040 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,044 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,048 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,055 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,063 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,071 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,075 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,083 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,091 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,099 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,107 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,111 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,123 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,127 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:39,139 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,139 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,144 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,149 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,154 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,159 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,163 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,169 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,174 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,178 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:49,182 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:17:56,686 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-13 05:17:56,698 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-13 05:17:56,703 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-13 05:17:56,704 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-13 05:17:57,003 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-13 05:17:57,015 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-13 05:17:57,021 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-13 05:17:57,022 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-13 05:27:17,439 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,444 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,448 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,452 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,459 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,467 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,475 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,483 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,487 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,499 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,507 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,515 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,519 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,531 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,543 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:17,551 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,515 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,520 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,525 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,529 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,534 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,538 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,544 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,548 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,552 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:27:27,556 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-13 05:33:40,901 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-08-13 05:33:40,904 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

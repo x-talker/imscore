@@ -1,0 +1,137 @@
+2014-08-21 05:00:52,042 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:00:54,045 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:01:22,062 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:01:24,069 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:01:52,074 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:01:54,076 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:02:22,081 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:02:24,083 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:02:52,087 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:02:54,089 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:03:22,094 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-08-21 05:03:24,097 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-08-21 05:03:45,031 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:03:45,051 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:03:45,061 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:03:45,062 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:03:45,285 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:03:55,403 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:03:55,424 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:03:55,430 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:03:55,431 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:03:55,658 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:03:55,671 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:03:55,692 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:03:55,696 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:03:55,929 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:03:55,940 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:03:55,962 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:03:55,964 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Un-Registered!
+2014-08-21 05:04:05,608 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:04:31,847 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:04:31,866 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:04:31,873 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:04:31,874 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:04:32,145 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:04:32,160 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:04:32,167 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:04:32,168 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:05:00,806 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:34,517 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:34,518 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:34,519 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:34,520 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:34,544 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:43,161 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:05:53,901 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:06:07,832 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:06:07,845 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:06:07,852 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:06:07,853 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:06:08,087 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:06:08,100 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:06:08,122 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:06:08,131 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:06:15,607 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:06:47,121 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:06:47,134 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:06:47,143 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:06:47,144 [Thread-14] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:06:47,420 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:06:47,431 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:06:47,451 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:06:47,455 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:17:12,681 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:12,693 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:17:12,699 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:17:12,700 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:17:16,047 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:16,064 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:17:16,083 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@windlang.com and all its coresponding implicit-set identities are De-Registered!
+2014-08-21 05:17:20,988 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:21,046 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:17:21,057 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:17:21,057 [Thread-13] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:17:21,286 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:21,302 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:17:21,328 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:17:21,337 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:17:26,223 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:17:42,399 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:42,410 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:17:42,416 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:17:42,417 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:17:42,697 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:17:42,709 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:17:42,729 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:17:42,732 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:18:31,032 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:18:31,070 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:18:31,076 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:18:31,077 [Thread-12] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:18:31,330 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:18:31,343 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:18:31,365 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@windlang.com</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@windlang.com</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-08-21 05:18:31,370 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are Registered!
+2014-08-21 05:18:34,517 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:18:34,528 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:18:34,529 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:18:34,529 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:18:34,547 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-21 05:43:50,733 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:43:50,763 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-21 05:43:50,771 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-21 05:43:50,772 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-21 05:43:50,988 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-21 05:43:50,999 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-21 05:43:51,014 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@windlang.com and all its coresponding implicit-set identities are De-Registered!
+2014-08-21 05:45:28,680 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-08-21 05:45:28,686 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

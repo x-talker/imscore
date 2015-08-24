@@ -1,0 +1,160 @@
+2014-03-15 04:03:12,225 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:03:42,232 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:04:12,238 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:04:42,244 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:05:12,250 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:05:42,256 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:06:12,261 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:06:42,267 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:07:12,272 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:07:42,282 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:08:12,287 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:08:42,293 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:09:12,301 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:09:42,306 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:10:12,312 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:10:42,318 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:11:12,330 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:11:42,336 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:12:12,342 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:12:42,348 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:13:12,355 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:13:42,361 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:14:12,367 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:14:42,377 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:15:12,382 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:15:42,388 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:16:12,394 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:16:42,400 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:17:12,405 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:17:42,411 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:18:12,419 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:18:42,425 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:19:12,438 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:19:42,444 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:20:12,450 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:20:42,458 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.open-ims.test:3869 not responding to connection attempt 
+2014-03-15 04:20:42,459 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.open-ims.test:3870 not responding to connection attempt 
+2014-03-15 04:21:21,658 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:21:22,048 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:21:22,668 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:21:32,757 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:21:33,677 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-03-15 04:21:33,681 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !
+2014-03-15 04:21:38,833 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-03-15 04:21:40,193 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-03-15 04:21:41,346 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-03-15 04:21:42,345 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-03-15 04:21:49,312 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-03-15 04:21:49,903 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-03-15 04:21:49,908 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.open-ims.test
+2014-03-15 04:21:49,908 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: open-ims.test
+2014-03-15 04:21:49,908 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-03-15 04:21:49,909 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-03-15 04:21:49,909 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-03-15 04:21:49,910 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-03-15 04:21:50,265 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:21:59,900 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:22:00,086 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:22:00,342 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:22:00,692 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:22:01,234 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:22:26,446 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:27,245 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:28,083 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:28,322 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:22:29,859 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:22:29,943 [Thread-13] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:22:30,383 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:30,664 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:22:31,141 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@open-ims.test</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@open-ims.test</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-03-15 04:22:31,373 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@open-ims.test and all its coresponding implicit-set identities are Registered!
+2014-03-15 04:22:33,883 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-03-15 04:22:57,081 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:57,280 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:22:57,402 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:22:57,403 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:22:57,680 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:57,816 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:22:58,178 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:22:58,663 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@open-ims.test and all its coresponding implicit-set identities are De-Registered!
+2014-03-15 04:23:34,911 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:23:35,217 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:23:35,454 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:23:35,455 [Thread-13] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:23:35,725 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:23:36,082 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:23:36,683 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@open-ims.test</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@open-ims.test</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-03-15 04:23:36,799 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@open-ims.test and all its coresponding implicit-set identities are Registered!
+2014-03-15 04:23:43,933 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-03-15 04:25:09,490 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:25:09,507 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:25:09,515 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:25:09,516 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:25:09,737 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:25:09,751 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:25:09,771 [Thread-10] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@open-ims.test and all its coresponding implicit-set identities are De-Registered!
+2014-03-15 04:25:35,572 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:25:35,602 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:25:35,616 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:25:35,616 [Thread-12] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:25:35,842 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:25:35,869 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:25:35,918 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>alice@open-ims.test</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@open-ims.test</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2014-03-15 04:25:35,938 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@open-ims.test and all its coresponding implicit-set identities are Registered!
+2014-03-15 04:25:43,933 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-03-15 04:27:33,201 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:27:33,215 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-03-15 04:27:33,222 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-03-15 04:27:33,223 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-03-15 04:27:33,391 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-03-15 04:27:33,414 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-03-15 04:27:33,435 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@open-ims.test and all its coresponding implicit-set identities are De-Registered!
+2014-03-15 04:28:43,791 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:43,979 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:44,144 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:44,730 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:44,894 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:45,044 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:45,191 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:28:45,377 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:30:33,291 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:30:33,462 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:30:34,137 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:30:38,258 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-03-15 04:30:40,520 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-03-15 04:30:40,524 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

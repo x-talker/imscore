@@ -1,0 +1,4 @@
+2014-06-10 23:11:07,045 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-06-10 23:11:07,093 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are De-Registered!
+2014-06-10 23:21:17,204 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-06-10 23:21:17,209 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

@@ -1,0 +1,21 @@
+2015-02-06 22:30:12,281 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-06 22:30:12,298 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-06 22:30:12,302 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-06 22:30:12,303 [Thread-14] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-06 22:30:12,520 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-06 22:30:12,529 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-06 22:30:12,543 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-02-06 22:30:12,546 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-02-06 22:30:15,911 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-06 22:30:15,920 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-06 22:30:15,923 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-06 22:30:15,924 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-06 22:30:16,193 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-06 22:39:57,974 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-06 22:39:57,986 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-02-06 22:52:27,997 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-06 22:52:28,009 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are De-Registered!

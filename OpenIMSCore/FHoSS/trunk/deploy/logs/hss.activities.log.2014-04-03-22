@@ -1,0 +1,54 @@
+2014-04-03 22:00:55,559 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:01:36,524 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:04:45,311 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:05:17,691 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:05:37,946 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:06:08,103 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:06:38,109 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:07:08,114 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:07:51,836 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:08:39,419 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:09:29,575 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:10:15,702 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:10:20,176 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:10:57,020 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:14:57,177 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:15:27,182 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:15:57,187 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:16:27,197 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:16:57,202 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:17:27,207 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:17:57,212 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-03 22:18:40,079 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:19:26,748 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:31:21,779 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:31:35,205 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:32:10,533 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:34:24,846 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:35:08,924 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:36:43,007 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:40:31,621 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:41:32,440 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:41:44,150 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:42:16,124 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:43:41,961 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:47:23,124 [http-172.31.0.60-9080-Processor1] INFO  de.fhg.fokus.hss.web.util.LoggerHelper  - WebLoggingAppender added/cleared.
+2014-04-03 22:47:40,637 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:51:54,365 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-04-03 22:51:55,914 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-04-03 22:51:57,213 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-04-03 22:51:58,199 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-04-03 22:52:03,508 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-04-03 22:52:03,564 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-04-03 22:52:03,569 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.windlang.com
+2014-04-03 22:52:03,570 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: windlang.com
+2014-04-03 22:52:03,570 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-04-03 22:52:03,571 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-04-03 22:52:03,571 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-04-03 22:52:03,572 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-04-03 22:52:03,595 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-04-03 22:57:04,699 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:57:52,309 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:58:36,210 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-03 22:59:02,192 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!

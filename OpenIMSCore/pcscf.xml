@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiameterPeer 
+	FQDN="pcscf.saygreet.com"
+	Realm="saygreet.com"
+	Vendor_Id="10415"
+	Product_Name="CDiameterPeer"
+	AcceptUnknownPeers="1"
+	DropUnknownOnDisconnect="1"
+	Tc="30"
+	Workers="4"
+	QueueLength="8"
+	TransactionTimeout="5"
+	SessionsHashSize="128"
+	DefaultAuthSessionTimeout="60"
+	MaxAuthSessionTimeout="300"
+>
+	<Peer FQDN="clf.saygreet.com" Realm="saygreet.com" port="3868"/> 
+	<Peer FQDN="pcrf.saygreet.com" Realm="saygreet.com" port="4868"/> 
+
+	<Acceptor port="3867" bind="120.24.95.155"/>
+	
+	<Auth id="16777231" vendor="13019"/> <!-- ETSI e2 -->
+	<Auth id="16777236" vendor="10415"/> <!-- 3GPP Rx -->
+	<Auth id="16777236" vendor="0"/>     <!-- Rx -->
+	<Auth id="16777222" vendor="10415"/> <!-- 3GPP Gq -->
+	<Auth id="16777222" vendor="13019"/> <!-- ETSI Gq prima -->
+
+	<DefaultRoute FQDN="pcrf.saygreet.com" metric="10"/>
+	<DefaultRoute FQDN="clf.saygreet.com" metric="10"/>
+	
+<!-- Realm Routing configuration - Uncomment and Edit!
+
+	<Realm name="saygreet.com">
+		<Route FQDN="clf1.saygreet.com" metric="10"/>
+		<Route FQDN="clf2.saygreet.com" metric="20"/>
+	</Realm>
+	<Realm name="another.saygreet.com">
+		<Route FQDN="clf3.saygreet.com" metric="10"/>
+		<Route FQDN="clf2.saygreet.com" metric="20"/>		
+	</Realm>
+	<DefaultRoute FQDN="clf.saygreet.com" metric="10"/>
+	<DefaultRoute FQDN="clf4.saygreet.com" metric="20"/>
+
+-->
+
+</DiameterPeer>

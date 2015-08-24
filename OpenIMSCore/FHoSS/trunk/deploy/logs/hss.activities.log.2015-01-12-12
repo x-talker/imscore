@@ -1,0 +1,58 @@
+2015-01-12 12:06:36,650 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2015-01-12 12:06:38,229 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2015-01-12 12:06:39,544 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2015-01-12 12:06:40,567 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2015-01-12 12:06:45,795 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2015-01-12 12:06:45,859 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2015-01-12 12:06:45,863 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.x-talker.net
+2015-01-12 12:06:45,863 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: x-talker.net
+2015-01-12 12:06:45,863 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2015-01-12 12:06:45,864 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2015-01-12 12:06:45,864 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2015-01-12 12:06:45,865 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2015-01-12 12:06:45,967 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-12 12:06:45,972 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-12 12:06:45,973 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-12 12:09:59,743 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:10:00,413 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-12 12:10:00,647 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-12 12:10:00,755 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-12 12:10:01,118 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:10:02,074 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:10:02,541 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-12 12:10:04,509 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-12 12:10:04,637 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-12 12:10:08,635 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:10:19,561 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:10:19,875 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-12 12:10:19,992 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-12 12:10:19,994 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-12 12:10:20,077 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:10:20,202 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-12 12:10:20,803 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-12 12:10:20,922 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-12 12:10:28,446 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:16,482 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:16,483 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:16,484 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:16,756 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:16,628 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:12:17,349 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-12 12:17:56,656 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:17:56,673 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-12 12:17:56,680 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-12 12:17:56,681 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-12 12:17:56,741 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-12 12:17:56,754 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-12 12:17:56,865 [Thread-10] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-01-12 12:18:07,952 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2015-01-12 12:18:07,957 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

@@ -1,0 +1,7 @@
+2015-01-29 22:53:42,262 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-29 22:53:42,299 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-29 22:53:42,304 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-29 22:53:42,305 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-29 22:53:42,365 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-29 22:53:42,373 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-29 22:53:42,386 [Thread-10] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!

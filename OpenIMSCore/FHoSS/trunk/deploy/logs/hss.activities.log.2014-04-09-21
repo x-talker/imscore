@@ -1,0 +1,46 @@
+2014-04-09 21:43:25,173 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-04-09 21:43:26,546 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-04-09 21:43:27,783 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-04-09 21:43:28,794 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-04-09 21:43:34,427 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-04-09 21:43:34,474 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-04-09 21:43:34,478 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.windlang.com
+2014-04-09 21:43:34,479 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: windlang.com
+2014-04-09 21:43:34,479 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-04-09 21:43:34,480 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-04-09 21:43:34,480 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-04-09 21:43:34,480 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-04-09 21:43:34,495 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-04-09 21:43:34,505 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.windlang.com:3869 not responding to connection attempt 
+2014-04-09 21:43:34,507 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-04-09 21:47:32,316 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:51:40,775 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-04-09 21:51:40,778 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !
+2014-04-09 21:55:20,626 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-04-09 21:55:21,975 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-04-09 21:55:23,116 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-04-09 21:55:24,114 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-04-09 21:55:29,623 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-04-09 21:55:29,675 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-04-09 21:55:29,679 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.windlang.com
+2014-04-09 21:55:29,680 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: windlang.com
+2014-04-09 21:55:29,680 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-04-09 21:55:29,681 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-04-09 21:55:29,681 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-04-09 21:55:29,681 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-04-09 21:55:29,696 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-04-09 21:56:00,795 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:00,943 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-09 21:56:00,958 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-04-09 21:56:00,967 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-04-09 21:56:01,266 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:01,315 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-09 21:56:01,324 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-04-09 21:56:01,325 [Thread-13] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-04-09 21:56:14,210 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:21,545 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:29,548 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:37,551 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-09 21:56:45,553 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!

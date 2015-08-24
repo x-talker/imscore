@@ -1,0 +1,139 @@
+2015-01-08 10:03:58,441 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2015-01-08 10:04:00,377 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2015-01-08 10:04:02,264 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2015-01-08 10:04:03,315 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2015-01-08 10:04:09,165 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2015-01-08 10:04:09,261 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2015-01-08 10:04:09,294 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.x-talker.net
+2015-01-08 10:04:09,295 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: x-talker.net
+2015-01-08 10:04:09,296 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2015-01-08 10:04:09,296 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2015-01-08 10:04:09,297 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2015-01-08 10:04:09,297 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2015-01-08 10:04:09,322 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-08 10:04:28,748 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:04:28,900 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:04:28,986 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:04:28,997 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:04:29,129 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:04:29,162 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:04:29,235 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-08 10:04:29,250 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-08 10:04:35,045 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:05:05,253 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:05,305 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:05:05,315 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:05:05,316 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:05:05,577 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:05,596 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:05:05,655 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-08 10:05:05,663 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-08 10:05:20,906 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:20,925 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:05:20,933 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:05:20,934 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:05:21,045 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:21,060 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:05:21,138 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-01-08 10:05:22,887 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:22,941 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:05:22,960 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:05:22,961 [Thread-14] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:05:23,156 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:05:23,190 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:05:23,231 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-08 10:05:23,238 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-08 10:05:24,975 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:09:59,851 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:09:59,867 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:09:59,875 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:09:59,875 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:09:59,995 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:10:00,011 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:10:00,045 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>1001@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:1001@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-08 10:10:00,065 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-08 10:11:20,624 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:11:20,648 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:11:20,658 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:11:20,659 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:11:50,833 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:11:50,847 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:11:50,858 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:11:50,859 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:11:51,026 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:11:51,039 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:11:51,063 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-01-08 10:11:53,583 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:11:53,610 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-01-08 10:11:53,630 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-01-08 10:11:53,631 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-01-08 10:11:53,771 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-08 10:11:53,791 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-01-08 10:11:53,818 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@x-talker.net</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@x-talker.net</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:127.0.0.1:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2015-01-08 10:11:53,823 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are Registered!
+2015-01-08 10:11:54,975 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-01-08 10:16:54,466 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:16:55,468 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:17:24,474 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:17:25,476 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:17:54,481 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:17:55,483 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:18:24,489 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:18:25,491 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:18:54,497 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:18:55,499 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:19:24,504 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:19:25,507 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:19:54,512 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:19:55,514 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:20:24,519 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:20:25,521 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:20:54,529 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:20:55,531 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:21:24,536 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:21:25,538 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:21:54,549 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:21:55,551 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:22:24,580 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:22:25,586 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:22:54,592 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:22:55,594 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:23:24,599 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:23:25,601 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:23:54,607 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:23:55,609 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:24:24,615 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:24:25,617 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:24:54,623 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:24:55,625 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:25:24,631 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:25:25,633 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:25:54,640 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-08 10:25:55,642 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net:3869 not responding to connection attempt 
+2015-01-08 10:26:18,383 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-08 10:26:18,384 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-08 10:26:18,385 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

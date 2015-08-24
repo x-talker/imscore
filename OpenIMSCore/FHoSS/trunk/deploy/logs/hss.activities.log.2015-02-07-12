@@ -1,0 +1,15 @@
+2015-02-07 12:01:01,483 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:01:01,487 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:01:01,492 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:01:01,498 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:10:56,881 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-07 12:10:56,889 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-07 12:10:56,893 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-07 12:10:56,894 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-07 12:10:57,054 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-07 12:12:31,473 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-07 12:12:31,485 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-02-07 12:15:01,475 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:15:01,476 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2015-02-07 12:51:51,598 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-07 12:51:51,619 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@x-talker.net and all its coresponding implicit-set identities are De-Registered!

@@ -1,0 +1,2 @@
+2014-06-25 22:02:13,895 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-06-25 22:02:13,918 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

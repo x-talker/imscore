@@ -1,0 +1,31 @@
+2014-08-20 04:00:43,056 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:00:43,057 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:00:43,058 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:00:43,058 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:00:43,111 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:00:43,134 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-08-20 04:30:30,633 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-20 04:30:30,646 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-20 04:30:30,652 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2014-08-20 04:30:30,656 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2014-08-20 04:30:30,846 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-20 04:30:30,859 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-20 04:30:30,886 [Thread-19] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@windlang.com and all its coresponding implicit-set identities are De-Registered!
+2014-08-20 04:47:23,054 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-20 04:47:23,087 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are De-Registered!
+2014-08-20 04:55:41,655 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-08-20 21:58:18,500 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-08-20 21:58:20,072 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2014-08-20 21:58:23,782 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-08-20 21:58:24,933 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-08-20 21:58:31,185 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-08-20 21:58:31,245 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-08-20 21:58:31,250 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.windlang.com
+2014-08-20 21:58:31,251 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: windlang.com
+2014-08-20 21:58:31,251 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-08-20 21:58:31,252 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-08-20 21:58:31,252 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-08-20 21:58:31,252 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-08-20 21:58:31,275 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

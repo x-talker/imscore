@@ -1,0 +1,42 @@
+2015-01-05 22:34:28,030 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2015-01-05 22:34:29,478 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2015-01-05 22:34:31,005 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2015-01-05 22:34:32,101 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2015-01-05 22:34:56,837 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2015-01-05 22:34:57,685 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2015-01-05 22:34:57,918 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.x-talker.net
+2015-01-05 22:34:57,919 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: x-talker.net
+2015-01-05 22:34:57,919 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2015-01-05 22:34:57,919 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2015-01-05 22:34:57,920 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2015-01-05 22:34:57,920 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2015-01-05 22:34:59,358 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-05 22:34:59,453 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:36:02,635 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-05 22:36:03,639 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:37:06,672 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-05 22:37:07,680 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:38:10,709 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-05 22:38:11,713 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:39:14,767 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-05 22:39:15,770 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:40:18,778 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.x-talker.net:3870 not responding to connection attempt 
+2015-01-05 22:40:19,850 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.x-talker.net can not be resolved.
+2015-01-05 22:48:01,306 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2015-01-05 22:48:02,841 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 172.31.0.60
+2015-01-05 22:48:04,081 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2015-01-05 22:48:05,120 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2015-01-05 22:48:10,524 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2015-01-05 22:48:10,568 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2015-01-05 22:48:10,572 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.x-talker.net
+2015-01-05 22:48:10,573 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: x-talker.net
+2015-01-05 22:48:10,573 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2015-01-05 22:48:10,573 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2015-01-05 22:48:10,574 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2015-01-05 22:48:10,574 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2015-01-05 22:48:10,597 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2015-01-05 22:49:28,522 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-05 22:50:01,053 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-01-05 22:50:06,826 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!

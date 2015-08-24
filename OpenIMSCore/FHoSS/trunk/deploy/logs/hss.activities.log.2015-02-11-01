@@ -1,0 +1,22 @@
+2015-02-11 01:40:50,598 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-11 01:40:50,647 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!
+2015-02-11 01:59:12,434 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-11 01:59:12,449 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-11 01:59:12,461 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-11 01:59:12,462 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-11 01:59:19,992 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-11 01:59:20,041 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-11 01:59:20,045 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-11 01:59:20,045 [Thread-14] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-11 01:59:28,239 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-11 01:59:28,250 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-11 01:59:28,254 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-11 01:59:28,255 [Thread-17] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-11 01:59:36,190 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-11 01:59:36,227 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-11 01:59:36,231 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-11 01:59:36,231 [Thread-19] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-11 01:59:36,750 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-11 01:59:36,762 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-11 01:59:36,765 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-11 01:59:36,766 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!

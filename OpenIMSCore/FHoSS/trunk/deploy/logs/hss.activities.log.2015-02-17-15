@@ -1,0 +1,236 @@
+2015-02-17 15:12:31,853 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:31,960 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:31,974 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:31,974 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:38,446 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:38,455 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:38,459 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:38,459 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:39,179 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:39,188 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:39,192 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:39,192 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:41,667 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:41,675 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:41,680 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:41,680 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:45,972 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:46,021 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:46,026 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:46,026 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:47,389 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:47,397 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:47,402 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:47,402 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:47,566 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:47,574 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:47,578 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:47,579 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:49,212 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:49,221 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:49,226 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:49,227 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:54,175 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:54,184 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:54,189 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:54,189 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:55,109 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:55,118 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:55,122 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:55,123 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:55,537 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:55,545 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:55,550 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:55,550 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:55,947 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:55,955 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:55,959 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:55,960 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:12:57,423 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:12:57,432 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:12:57,437 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:12:57,437 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:01,202 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:01,211 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:01,216 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:01,216 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:02,383 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:02,391 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:02,396 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:02,397 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:02,722 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:02,730 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:02,735 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:02,735 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:03,223 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:03,232 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:03,236 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:03,237 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:04,555 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:04,564 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:04,568 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:04,569 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:05,625 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:05,634 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:05,638 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:05,639 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:08,107 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:08,115 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:08,120 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:08,120 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:08,730 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:08,739 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:08,744 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:08,744 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:11,384 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:11,409 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:11,413 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:11,419 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:12,117 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:12,127 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:12,131 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:12,132 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:12,909 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:12,917 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:12,922 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:12,922 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:16,912 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:16,922 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:16,928 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:16,929 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:20,216 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:20,249 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:20,253 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:20,253 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:23,751 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:23,760 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:23,764 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:23,765 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:25,118 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:25,127 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:25,132 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:25,133 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:25,549 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:25,558 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:25,563 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:25,563 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:28,417 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:28,426 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:28,430 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:28,430 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:31,060 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:31,070 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:31,074 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:31,075 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:31,303 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:31,311 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:31,316 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:31,317 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:38,629 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:38,638 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:38,643 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:38,643 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:39,420 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:39,429 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:39,434 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:39,434 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:46,181 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:46,189 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:46,194 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:46,195 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:47,529 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:47,537 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:47,542 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:47,542 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:49,103 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:49,112 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:49,116 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:49,116 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:49,403 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:49,412 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:49,417 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:49,417 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:54,352 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:54,397 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:54,401 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:54,401 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:13:57,005 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:13:57,020 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:13:57,025 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:13:57,025 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:14:02,469 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:14:02,477 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:14:02,481 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:14:02,482 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:14:05,087 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:14:05,096 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:14:05,100 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:14:05,100 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:14:05,117 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:14:05,124 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:14:05,129 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:14:05,129 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:14:13,276 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:14:13,285 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:14:13,315 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:14:13,315 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:14:19,224 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:14:19,233 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:14:19,237 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:14:19,237 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:15:00,111 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:15:00,119 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:15:00,124 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:15:00,124 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:15:07,667 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:15:07,678 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:15:07,682 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:15:07,683 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:15:15,756 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:15:15,764 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:15:15,769 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:15:15,769 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:15:23,861 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:15:23,869 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:15:23,873 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:15:23,874 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:15:29,687 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:15:29,695 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:15:29,699 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:15:29,700 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:22:54,301 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:22:54,309 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:22:54,338 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:22:54,338 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:23:01,863 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:23:01,871 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:23:01,912 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:23:01,912 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:23:14,127 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:23:14,136 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:23:14,140 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:23:14,141 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:23:21,848 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:23:21,857 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:23:21,861 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:23:21,862 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:49:30,913 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:49:30,922 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:49:30,926 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:49:30,926 [Thread-15] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:49:38,476 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:49:38,485 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:49:38,490 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:49:38,491 [Thread-16] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:49:46,651 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:49:46,659 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:49:46,663 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:49:46,664 [Thread-11] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:49:54,817 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:49:54,827 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:49:54,869 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:49:54,869 [Thread-10] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!
+2015-02-17 15:49:56,377 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2015-02-17 15:49:56,385 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2015-02-17 15:49:56,390 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-AKA
+2015-02-17 15:49:56,390 [Thread-18] DEBUG de.fhg.fokus.hss.auth.DigestAKA  - Authentication-Scheme: AKAv1!

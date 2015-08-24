@@ -1,0 +1,3 @@
+2014-09-13 06:25:11,044 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.windlang.com:3870 not responding to connection attempt 
+2014-09-13 06:25:21,304 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter was destroyed!
+2014-09-13 06:25:21,309 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat was stoped !

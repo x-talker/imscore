@@ -1,0 +1,2 @@
+2015-02-10 06:09:45,973 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2015-02-10 06:09:46,011 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:1001@x-talker.net and all its coresponding implicit-set identities are De-Registered!

@@ -1,0 +1,2 @@
+2014-08-29 01:38:21,081 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-29 01:38:21,099 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@windlang.com and all its coresponding implicit-set identities are De-Registered!
